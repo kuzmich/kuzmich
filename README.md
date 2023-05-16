@@ -4,11 +4,15 @@
 ## Professional goals
 Creation of useful and reliable applications and tools, automation of daily tasks.
 
+## Currently working on
+[Redesign of one of the oldest comic sites](https://next.theduckwebcomics.com)  
+Tech stack: Modern HTML + CSS (no frameworks), a bit of JavaScript, Python, Django, PostgreSQL, Docker.
+
 ## My skillset
 ### Backend
 **Web development**, API development, admin UIs, using **Django**, Flask or other framkeworks.
 
-Unit and integration testing with **pytest**, nose, Playwright, Test Driven Development (**TDD**).
+Unit and integration **testing** with **pytest**, nose, Playwright, Test Driven Development (**TDD**).
 
 Automatic deployment with **Docker**, Ansible, Fabric. Continuous Integration/Delivery (Gitlab CI/CD).
 
